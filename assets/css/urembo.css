@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+}
+th,td{
+    border:20px solid cadetblue;
+    padding:20px;
+    margin:10px;
+}
+thead{
+    font-family: "Arial Black";
+body{
+    background-color: lightslategray;
+}
+h2{
+   text-align: end;
+}
